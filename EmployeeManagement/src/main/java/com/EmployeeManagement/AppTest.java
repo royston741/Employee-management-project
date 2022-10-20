@@ -1,10 +1,12 @@
 /*
- 	Q. WAP to create Employee management using collections 
-	Perform operations:
-	1.Add an employee
-	2. Delete an employee
-	3. Find an employee"
-	4. Display
+ Program : To create Employee management using collections 
+	   Perform operations:
+	   1.Add an employee
+	   2. Delete an employee
+	   3. Find an employee"
+	   4. Display
+ @Author : Royston
+ @Date : 20 Oct
 */
 
 package com.EmployeeManagement;
